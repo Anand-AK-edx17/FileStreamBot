@@ -29,8 +29,8 @@ HELP_TEXT = """
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : File-Stream-Bot</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/RKrishnaa'>4.0.0</a></b>\n
-<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/Anand-AK-edx17/FileStreamBot'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔸GitHub : <a href='https://github.com/Anand-AK-edx17'>Fᴏʟʟᴏᴡ</a></b>\n
+<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://t.me/Source_Code_AK/3'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
+<b>🔸 Parent Channel : <a href='https://t.me/Rkrishnaa'>🥀 ❤️ 'Rαԃԋαƙɾιʂԋɳ™ ✔️️🌸</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Anand_Kumar_AK'>╰☆Kσʂԋιƙ Kυɱαя☆╮</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegra.ph/File-Stream-Bot-09-02'>[ Click Here ]</a></b>"""
 
